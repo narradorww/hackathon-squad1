@@ -1,10 +1,14 @@
-import React from 'react'
-  
+import logo from './logo.svg';
+import './App.css';  
 
-export default function button (){
-    return(
+function button() {
+  return (
+    <div className="App">
         <button>
-
+            custom button
         </button>
-    )
+    </div>
+  );
 }
+
+export default button;
