@@ -33,9 +33,9 @@ const useStyles = makeStyles(({ spacing }) => ({
 }));
 
 let id = 0;
-function createData(consultor, escritorio, workspace, data) {
+function createData( escritorio, workspace, data) {
   id += 1;
-  return { id, consultor, escritorio, workspace, data };
+  return { id, escritorio, workspace, data };
 }
 
 const rows = [
