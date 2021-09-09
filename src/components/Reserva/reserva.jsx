@@ -33,13 +33,13 @@ const useStyles = makeStyles(({ spacing }) => ({
 }));
 
 let id = 0;
-function createData(escritorio, workspace, data) {
+function createData(consultor, escritorio, workspace, data) {
   id += 1;
-  return { id, escritorio, workspace, data };
+  return { id, consultor, escritorio, workspace, data };
 }
 
 const rows = [
-  // comment
+  // mock de dados de reserva 
   createData('São Paulo', 160, "01/11/2021"),
   createData('Santos', 8, "02/11/2021"),
   createData('Santos', 16, "03/11/2021"),
@@ -58,7 +58,7 @@ export const Reserva = React.memo(function ElevatedHeaderCard() {
         className={cardHeaderShadowStyles.root}
         classes={cardHeaderStyles}
         title={'Reserva de Workspace'}
-        subheader={''}
+        subheader={'Rodrigo Alexandre'}
       />
       <CardContent className={classes.content}>
         <Table>

@@ -1,11 +1,14 @@
 import Header from '../src/components/Header/header'
-import Reserva from './components/Reserva/reserva';
+import Conteudo from '../src/components/Conteudo/conteudo'
+
+
 
 function App() {
   return (
     <div>
       <Header/>
-      <Reserva/>
+      <Conteudo/>
+      <div>todo: footer</div>
     </div>
   );
 }
