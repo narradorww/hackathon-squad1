@@ -1,14 +1,29 @@
-import logo from './logo.svg';
-import './App.css';  
+import React from 'react';
+import Button from '@material-ui/core/Button';
+import EventAvailableIcon from '@material-ui/icons/EventAvailable';
 
-function button() {
+
+
+
+
+
+
+function Botao() {
   return (
-    <div className="App">
-        <button>
-            custom button
-        </button>
-    </div>
+<>
+
+    <Button
+    variant="contained"
+    color="secondary"
+    startIcon={<EventAvailableIcon />}
+  >
+
+  Agendar
+
+  </Button>
+</>
+   
   );
 }
 
-export default button;
+export default Botao;
