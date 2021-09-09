@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import Reserva from '../Reserva/reserva';
 import Ocupometro from '../Ocupometro/ocupometro'
+import Agendar from '../Agendamento/agendamento';
 
 
 
@@ -20,8 +21,7 @@ function Conteudo () {
 
     return(
         <StyledContainer> 
-        <Ocupometro/>
-        <Reserva/>
+        <Agendar/>
         </StyledContainer>
 
     
