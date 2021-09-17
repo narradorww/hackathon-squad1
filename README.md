@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# PROJETO SQUAD 01 #
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ENTREGAS DEV ##
 
-## Available Scripts
+REPOSITÓRIO FRONT-END: https://github.com/yaskisoba/hackathon-squad1 
+REPOSITÓRIO BACK-END: https://github.com/alvess09/Fcamara-Squad1-Back-End
+DOCUMENTAÇÃO API: AO SUBIR O SERVIDOR BACK-END ACESSAR http://localhost:3000/api-docs/
 
-In the project directory, you can run:
+## ENTREGAS UX/UI ##
 
-### `yarn start`
+PESQUISA: https://docs.google.com/forms/d/e/1FAIpQLSfazwHUxYBwbVFHeAK0toWxIekYcLOiD7CJIUQeJZCmWps4Cg/viewform
+ARTIGO: **
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## FERRAMENTAS UTILIZADAS ##
+MIRO: https://miro.com/welcomeonboard/OE9UZmhXekxPWjhUVjdWeFl1ZXFoTGl0ZXI3MjFTSWxUem1JQjN1SVdBR01NR3FpbnVTOGkxRUI2aFp3ckZJanwzMDc0NDU3MzUyMTQwOTQyNTAx 
+TRELO: https://trello.com/invite/b/FH8BY0cm/63c4a9d1aa1bf8dc3ef945eef695f794/kanban-rogue-one
+FIGMA: https://www.figma.com/file/PXJEvwSckeYBAKxJb7I4rD/projeto-FCamara?node-id=0%3A1
+NOTION: https://available-bearberry-edb.notion.site/gobackQG-Back-end-eea992a8ed3e412fafa7e97e1fe9ef3d
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## VIDEOS DE ENTREGA ##
 
-### `yarn test`
+VIDEO PITCH : https://youtu.be/0kQP-xD-vbk
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+VIDEO FUNCIONALIDADES: *
 
-### `yarn build`
+## AGRADECIMENTOS 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+QUEREMOS AGRADECER PELA OPORTUNIDADE QUE O GRUPO FCAMARA NOS PROPORCIONOU GERANDO EXPERIÊNCIA E APRENDIZADO, 
+CLARO ESPERAMOS NOS TORNAR #SANGUELARANJA TAMBÉM, MAS ANTES DE TUDO NOSSO MUITO OBRIGADO! JA ESTAMOS COM 
+GOSTINHO DE QUERO MAIS.
+ATT: SQUAD 1, PROGRAMA DE FORMAÇÃO GRUPO FCAMARA, SESSION 2 2021.
